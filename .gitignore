@@ -1,0 +1,14 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+Desktop.ini
+*~
+.idea/
+.vscode/
+
+# GitHub Pages artifacts (if ever enabled)
+.jekyll-cache/
+.jekyll-metadata
+
+# NOTE: screenshots/ and release/ are intentionally NOT ignored —
+# they are the core content of this repository.

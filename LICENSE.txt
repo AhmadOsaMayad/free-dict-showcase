@@ -1,0 +1,24 @@
+Free Dictionary — Showcase Repository
+All rights reserved © 2026 AhmadOsaMayad.
+
+This repository is a product showcase for the Free Dictionary Android app.
+It contains promotional media (screenshots), release notes, and a
+redistributable APK for personal use.
+
+Permissions granted:
+  * You may download and use the APK for personal, non-commercial use.
+  * You may link to this repository and its release files.
+
+Not granted:
+  * Redistribution or rehosting of the APK outside this repository.
+  * Commercial use of the app or the APK.
+  * Copying, modifying, or redistributing the screenshots, media, or
+    release notes without permission.
+  * Any access to or use of the application's source code or dataset, which
+    are not published in this repository.
+
+THE APP IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY ARISING FROM THE USE OF THE APP.
+
+For licensing inquiries, contact the repository owner.
