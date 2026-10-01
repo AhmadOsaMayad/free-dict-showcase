@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="release/free_dict.apk"><img src="https://img.shields.io/badge/⬇_Download-v1.0.0_APK-2E7D32?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/></a>
+  <a href="https://github.com/AhmadOsaMayad/free-dict-showcase/releases/latest/download/free_dict.apk"><img src="https://img.shields.io/badge/⬇_Download-v1.0.0_APK-2E7D32?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/></a>
 </p>
 
 <p align="center">
@@ -157,7 +157,7 @@ Recency, most-searched, faved, saved, A–Z. One tap to clear it all.
 
 | | |
 |---|---|
-| **Direct download** | [`release/free_dict.apk`](release/free_dict.apk) |
+| **Direct download** | [`free_dict.apk`](https://github.com/AhmadOsaMayad/free-dict-showcase/releases/latest/download/free_dict.apk) |
 | **Size** | ~31.9 MB |
 | **Requires** | Android |
 | **Internet** | Never |
